@@ -1,0 +1,9 @@
+.place__title {
+    width: 100%;
+    min-height: 8.1vh;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+    margin: 0 0 48px;
+}
