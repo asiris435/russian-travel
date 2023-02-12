@@ -30,11 +30,3 @@
         padding: 0 0 50px;
     }
 }
-/*
-@media screen and (max-width: 320px) {
-    .place {
-        grid-template-columns: min-content;
-        row-gap: 32px;
-        padding: 0 0 50px;
-    }
-}*/

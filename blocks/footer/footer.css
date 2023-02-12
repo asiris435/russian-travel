@@ -10,9 +10,3 @@
         grid-auto-flow: row;
     }
 }
-
-@media screen and (max-width: 320px) {
-    .footer {
-        grid-auto-flow: row;
-    }
-}

@@ -14,7 +14,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 539px) {
     .content__section-intro {
         padding: 0 16px 64px;
     }
