@@ -1,6 +1,6 @@
-# __Rassian-travel__
+# __Russian-travel__
 https://asiris435.github.io/russian-travel/
->## Цель проекта Rassian-travel: 
+>## Цель проекта Russian-travel: 
 >#### _Рассказать о туристических возможностях России и привлекательности её для туристов._   
 
 >## Описание проекта:
