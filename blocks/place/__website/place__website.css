@@ -1,7 +1,15 @@
 .place__website {
-    width: 99.13%;
-    min-height: 8.1vh;
-    display: flex;
-    flex-direction: column;
-    margin-left: 40px;
+    align-self: self-end;
+}
+
+@media screen and (max-width: 539px) {
+    .place__website {
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__website {
+        margin-left: 16px;
+    }
 }

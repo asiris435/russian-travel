@@ -1,0 +1,10 @@
+.content__section-cover {
+    padding: 0 48px 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .content__section-cover {
+        padding: 0;
+    }
+}
+

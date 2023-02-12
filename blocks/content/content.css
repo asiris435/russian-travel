@@ -1,3 +1,27 @@
 .content {
-    color: #fff;
+    padding: 56px 0 92px;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (max-width: 1279px) {
+    .content {
+        padding: 48px 0 92px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .content {
+        padding: 48px 0 88px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .content {
+        padding: 48px 0 64px;
+    }
 }
