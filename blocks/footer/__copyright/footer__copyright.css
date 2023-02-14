@@ -2,7 +2,6 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
-    justify-self: end;
     align-self: self-end;
     margin: 0;
     color: #fff;
@@ -11,6 +10,7 @@
 @media screen and (max-width: 767px) {
     .footer__copyright {
         line-height: 14px;
-        justify-self: start;
+        margin: 48px 0 0;
+        align-self: self-start;
     }
 }

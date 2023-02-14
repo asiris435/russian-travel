@@ -1,0 +1,8 @@
+.header__list {
+    list-style-type: none;
+    padding: 18px 0 6px;
+    display: grid;
+    grid-template-columns: min-content min-content;
+    column-gap: 18px;
+    margin: 0;
+}
